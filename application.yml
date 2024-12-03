@@ -1,0 +1,4 @@
+server:
+  port: 2100
+build:
+  version: 1:0:0
